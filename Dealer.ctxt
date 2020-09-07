@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dealer
+comment1.params=jF
+comment1.target=Dealer(javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ flipSecond()
+comment3.params=
+comment3.target=void\ reset()
+comment4.params=
+comment4.target=int\ calculateSoftHand()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Updatable
+comment1.params=x_val\ y_val\ w\ h\ t\ val\ g
+comment1.target=Updatable(double,\ double,\ double,\ double,\ java.lang.String,\ int,\ boolean)
+comment2.params=x_val\ y_val\ w\ h\ t\ val\ g\ aX\ aW
+comment2.target=Updatable(double,\ double,\ double,\ double,\ java.lang.String,\ int,\ boolean,\ double,\ double)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=newVal
+comment4.target=void\ updateValue(int)
+comment5.params=
+comment5.target=void\ setAlternateRect()
+numComments=6

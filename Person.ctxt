@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=card_x\ card_y\ box_x\ box_y\ height\ jF
+comment1.target=Person(int,\ int,\ int,\ int,\ int,\ javax.swing.JFrame)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=
+comment3.target=java.util.ArrayList\ getHand()
+comment4.params=c
+comment4.target=void\ addCard(Card)
+comment5.params=list
+comment5.target=boolean\ handContainsAce(java.util.ArrayList)
+comment6.params=list
+comment6.target=int\ calculateHandTotal(java.util.ArrayList)
+comment7.params=list
+comment7.target=int\ calculateHandTotalWithBusts(java.util.ArrayList)
+comment8.params=
+comment8.target=int\ getBoxX()
+comment9.params=
+comment9.target=int\ getBoxY()
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TextComp
+comment1.params=d\ x\ y
+comment1.target=TextComp(java.lang.String,\ int,\ int)
+comment2.params=d\ x\ y\ c
+comment2.target=TextComp(java.lang.String,\ int,\ int,\ java.awt.Color)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CardDeck
+comment1.params=tCS\ x\ y
+comment1.target=CardDeck(int,\ double,\ double)
+comment2.params=b\ tCS\ x\ y
+comment2.target=CardDeck(boolean,\ int,\ double,\ double)
+comment3.params=
+comment3.target=Card[]\ getDeck()
+comment4.params=
+comment4.target=Card\ removeTopCard()
+comment5.params=c
+comment5.target=void\ addCardToBottom(Card)
+comment6.params=
+comment6.target=void\ resetDeck()
+comment7.params=
+comment7.target=void\ devDeck()
+comment8.params=
+comment8.target=void\ shuffleDeck()
+numComments=9
